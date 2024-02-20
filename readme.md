@@ -9,5 +9,5 @@ IPayments is a platform that offers convenient and secure payment solutions for 
 <br>
 
 
-***output***<br>
+**output**<br>
 ![receipt screenshot](reciept.png)
